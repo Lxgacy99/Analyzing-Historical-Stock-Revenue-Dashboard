@@ -91,5 +91,6 @@ This project represents significant effort and learning applied during the Cours
 
 ---
 *Written by Lxgacy*
-[![Skills Network Logo](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/assets/logos/SN_web_lightmode.png)](https://skills.network/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkPY0220ENSkillsNetwork900-2022-01-01)
+![Leave Your Lxgacy Logo](./L.png)
+
 
