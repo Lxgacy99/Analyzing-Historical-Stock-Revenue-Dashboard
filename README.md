@@ -92,6 +92,7 @@ This project represents significant effort and learning applied during the Cours
 
 ---
 *Written by Lxgacy*
-![Leave Your Lxgacy Logo](./L.png)
+![Leave Your Lxgacy Logo](./Lxgacy_Final/submission_matplotlib/L.png)
+
 
 
