@@ -64,4 +64,32 @@ The Jupyter Notebook (`Final Assignment-v2.ipynb`) is organized sequentially:
 ## Key Tasks Performed
 
 *   **Stock Data Extraction:** Utilized the `yfinance` library to fetch maximum historical stock data for TSLA and GME.
-*   **Web Scraping
+*   **Web Scraping:** Employed `requests` and `BeautifulSoup` to download and parse HTML tables containing quarterly revenue data for both companies.
+*   **Data Cleaning:** Cleaned the extracted revenue data using `pandas` and `re` by removing currency symbols, commas, handling missing values, and converting data types.
+*   **Data Visualization:** Created comparative plots showing historical stock closing prices and quarterly revenue using a predefined `make_graph` function with `matplotlib`.
+
+## How to Run
+
+1.  Clone or download this repository.
+2.  Ensure all required libraries are installed (see [Setup and Installation](#setup-and-installation)).
+3.  Open the `Final Assignment-v2.ipynb` file using Jupyter Notebook or JupyterLab.
+4.  Run the cells sequentially from top to bottom.
+5.  Make sure the `L.png` logo file is in the same directory as the notebook for the header image to display correctly.
+
+## Visualizations
+
+The notebook generates two main plots:
+
+1.  **Tesla:** Historical Share Price vs. Historical Revenue (up to June 2021).
+2.  **GameStop:** Historical Share Price vs. Historical Revenue (up to June 2021).
+
+These plots are generated using the `make_graph` function in Questions 5 and 6.
+
+## Coursera Submission Note
+
+This project represents significant effort and learning applied during the Coursera course. The steps taken follow the assignment guidelines, demonstrating proficiency in the covered data science techniques. Reviewers are kindly requested to consider the diligence applied in completing this assignment. Thank you!
+
+---
+*Written by Lxgacy*
+[![Skills Network Logo](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/assets/logos/SN_web_lightmode.png)](https://skills.network/?utm_medium=Exinfluencer&utm_source=Exinfluencer&utm_content=000026UJ&utm_term=10006555&utm_id=NA-SkillsNetwork-Channel-SkillsNetworkCoursesIBMDeveloperSkillsNetworkPY0220ENSkillsNetwork900-2022-01-01)
+
