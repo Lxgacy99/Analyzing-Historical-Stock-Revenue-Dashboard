@@ -39,10 +39,11 @@ To run this notebook locally, ensure you have Python 3 installed. You can instal
 
 ```bash
 # For Windows
-pip install yfinance pandas requests beautifulsoup4 matplotlib
+# Windows Installation Instructions
+! py -m pip install yfinance pandas requests beautifulsoup4 matplotlib
 
-# For macOS/Linux
-pip3 install yfinance pandas requests beautifulsoup4 matplotlib
+# For macOS/Linux:
+# pip install yfinance pandas requests beautifulsoup4 matplotlib
 ```
 
 *Note: The notebook includes installation commands within the code cells as well.*
